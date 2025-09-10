@@ -44,8 +44,12 @@
                 <div class="container-fluid">
                     <div class="menu-wrapper d-flex align-items-center justify-content-between">
                         <!-- Logo -->
-                        <div class="logo">
-                            <a href="index.html"><img src="assets/img/logo/logo.webp" alt=""></a>
+                        <div class="col-lg-3">
+                            <div class="logo">
+                                <a href="./index.html">
+                                    <img src="https://www.samuraygym.com/asset-admin/images/logo.png" alt="" width="80%">
+                                </a>
+                            </div>
                         </div>
                         <!-- Main-menu -->
                         <div class="main-menu f-right d-none d-lg-block">
@@ -60,7 +64,7 @@
                                         <ul class="submenu">
                                             <li><a href="/blog">Blog</a></li>
                                             <li><a href="/blog_details">Blog Details</a></li>
-                                            <li><a href="/elements">Elements</a></li>
+                                            
                                         </ul>
                                     </li>
                                     <li><a href="/contact">Contact</a></li>
@@ -69,7 +73,7 @@
                         </div>                 
                         <!-- Header-btn -->
                         <div class="header-btns d-none d-lg-block f-right">
-                           <a href="contact.html" class="btn">Contact me</a>
+                           <a href="/contact" class="btn">Contact me</a>
                        </div>
                        <!-- Mobile Menu -->
                        <div class="col-12">
@@ -108,8 +112,8 @@
                         </div>
                         <div class="cat-cap">
                             <h5><a href="services.html">Body Building</a></h5>
-                            <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
-                        </div>
+
+                               </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -119,8 +123,7 @@
                         </div>
                         <div class="cat-cap">
                             <h5><a href="services.html">Muscle Gain</a></h5>
-                            <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
-                        </div>
+                                                   </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -130,7 +133,7 @@
                         </div>
                         <div class="cat-cap">
                             <h5><a href="services.html">Weight Loss</a></h5>
-                            <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
+                            
                         </div>
                     </div>
                 </div>
@@ -152,12 +155,10 @@
                 <div class="section-tittle2 mb-20 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                     <div class="front-text">
                         <h2 class="">About Me</h2>
-                        <p>You’ll look at graphs and charts in Task One, how to approach the task and the language needed 
-                            for a successful answer. You’ll examine Task Two questions and learn how to plan, write and 
-                        check academic essays.</p>
-                        <p class="mb-40">Task One, how to approach the task and the language needed for a successful answer. You’ll 
-                        examine Task Two questions and learn how to plan, write and check academic essays.</p>
-                        <a href="courses.html" class="border-btn">My Courses</a>
+                        <p>Muswar atau Iwan Samurai adalah seorang atlet binaraga Indonesia yang berasal dari Sumatera Barat. Pada tahun 2016, ia mewakili Provinsi Sumatera Barat dan menjadi peraih medali emas dalam kejuaraan binaraga yang diselenggarakan pada Pekan Olahraga Nasional 2016.
+                            Muswar meraih medali emas untuk kelas 70 kg dalam ajang binaragawan pada Pekan Olahraga Nasional 2012 yang diselenggarakan di Kota Pekanbaru, Provinsi Riau. Namun gelarnya kemudian dicabut karena ia dianggap terbukti melakukan doping.
+                            Pada tahun 2017, Muswar menjadi perwakilan Indonesia dalam Kejuaraan Olahraga Fisik dan Binaraga Asia ke-51 di Seoul, Korea Selatan. Dalam kejuaraan ini, Muswar mengikuti kelas 75 kg.Pada tahun 2018, ia mengikuti Kejuaaan Asia Oseania yang diselenggarakan di Kamboja.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -180,7 +181,7 @@
                     <div class="home-blog-single mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                         <div class="blog-img-cap">
                             <div class="blog-img">
-                                <img src="assets/img/gallery/blog1.jpg" alt="">
+                                <img src="assets/img/gallery/1.png" alt="">
                             </div>
                             <div class="blog-cap">
                                 <span>Gym & Fitness</span>
@@ -193,7 +194,7 @@
                     <div class="home-blog-single mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
                         <div class="blog-img-cap">
                             <div class="blog-img">
-                                <img src="assets/img/gallery/blog2.png" alt="">
+                                <img src="assets/img/gallery/2.png" alt="">
                             </div>
                             <div class="blog-cap">
                                 <span>Gym & Fitness</span>
@@ -207,16 +208,18 @@
     </section>
     <!-- Blog Area End -->
     <!--? video_start -->
-    <div class="video-area section-bg2 d-flex align-items-center"  data-background="assets/img/gallery/video-bg.mp4">
-        <div class="container">
-            <div class="video-wrap position-relative">
-                <div class="video-icon" >
-                    <a class="popup-video btn-icon" href="https://www.youtube.com/watch?v=up68UAfH0d0"><i class="fas fa-play"></i></a>
-                </div>
+    <div class="video-area section-bg2 d-flex align-items-center" data-background="assets/img/gallery/video-bg.png">
+    <div class="container">
+        <div class="video-wrap position-relative">
+            <div class="video-icon">
+                <a class="popup-video btn-icon" href="https://www.youtube.com/watch?v=_4ZupnZs8mA">
+                    <i class="fas fa-play"></i>
+                </a>
             </div>
         </div>
     </div>
-    <!-- video_end -->
+</div>
+  <!-- video_end -->
     <!-- ? services-area -->
     <section class="services-area">
         <div class="container">
@@ -228,7 +231,7 @@
                         </div>
                         <div class="features-caption">
                             <h3>Location</h3>
-                            <p>You’ll look at graphs and charts in Task One, how to approach </p>
+                            <p>Jl. S. Parman No.31, Ulak Karang Utara, Kec. Padang Utara, Kota Padang, Sumatera Barat </p>
                         </div>
                     </div>
                 </div>
@@ -239,8 +242,8 @@
                         </div>
                         <div class="features-caption">
                             <h3>Phone</h3>
-                            <p>(90) 277 278 2566</p>
-                            <p>  (78) 267 256 2578</p>
+                            <p>+62821-7021-6702</p>
+                            
                         </div>
                     </div>
                 </div>
@@ -250,9 +253,9 @@
                             <img src="assets/img/icon/icon3.svg" alt="">
                         </div>
                         <div class="features-caption">
-                            <h3>Email</h3>
-                            <p>jacson767@gmail.com</p>
-                            <p>contact56@zacsion.com</p>
+                            <h3>Instagram</h3>
+                            <p>@samuray_gym</p>
+                            
                         </div>
                     </div>
                 </div>
@@ -274,32 +277,12 @@
                                 <a href="index.html"><img src="assets/img/logo/logo2_footer.webp" alt=""></a>
                             </div>
                             <!-- Menu -->
-                            <!-- Header Start -->
-                            <div class="header-area main-header2 wow fadeInUp" data-wow-duration="2s" data-wow-delay=".4s">
-                                <div class="main-header main-header2">
-                                    <div class="menu-wrapper menu-wrapper2">
-                                        <!-- Main-menu -->
-                                        <div class="main-menu main-menu2 text-center">
-                                            <nav>
-                                                <ul>
-                                                    <li><a href="index.html">Home</a></li>
-                                                    <li><a href="about.html">About</a></li>
-                                                    <li><a href="courses.html">Courses</a></li>
-                                                    <li><a href="pricing.html">Pricing</a></li>
-                                                    <li><a href="gallery.html">Gallery</a></li>
-                                                    <li><a href="contact.html">Contact</a></li>
-                                                </ul>
-                                            </nav>
-                                        </div>   
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Header End -->
+                            
                             <!-- social -->
                             <div class="footer-social mt-30 wow fadeInUp" data-wow-duration="3s" data-wow-delay=".8s">
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="https://bit.ly/sai4ull"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                <a href="https://www.instagram.com/samuray_gym/"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.facebook.com/113197044346662?ref=_xav_ig_profile_page_web"><i class="fab fa-facebook-f"></i></a>
+                                
                             </div>
                         </div>
                     </div>
@@ -311,7 +294,7 @@
                     <div class="col-lg-12">
                         <div class="footer-copy-right text-center">
                             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                              Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                              Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Designed By Furgetech Theme</a>
                               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                           </div>
                       </div>

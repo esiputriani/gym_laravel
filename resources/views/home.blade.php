@@ -31,7 +31,8 @@
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="assets/img/logo/logo.webp" alt="">
+                    <img src="assets/img/logo/logo.webp" alt="100" >
+
                 </div>
             </div>
         </div>
@@ -44,8 +45,12 @@
                 <div class="container-fluid">
                     <div class="menu-wrapper d-flex align-items-center justify-content-between">
                         <!-- Logo -->
-                        <div class="logo">
-                            <a href="index.html"><img src="assets/img/logo/logo.webp" alt=""></a>
+                        <div class="col-lg-3">
+                            <div class="logo">
+                                <a href="./index.html">
+                                    <img src="https://www.samuraygym.com/asset-admin/images/logo.png" alt="" width="80%">
+                                </a>
+                            </div>
                         </div>
                         <!-- Main-menu -->
                         <div class="main-menu f-right d-none d-lg-block">
@@ -60,7 +65,7 @@
                                         <ul class="submenu">
                                             <li><a href="/blog">Blog</a></li>
                                             <li><a href="/blog_details">Blog Details</a></li>
-                                            <li><a href="/elements">Elements</a></li>
+                                            
                                         </ul>
                                     </li>
                                     <li><a href="/contact">Contact</a></li>
@@ -69,7 +74,7 @@
                         </div>          
                         <!-- Header-btn -->
                         <div class="header-btns d-none d-lg-block f-right">
-                           <a href="contact.html" class="btn">Contact me</a>
+                           <a href="/contact" class="btn">Contact me</a>
                        </div>
                        <!-- Mobile Menu -->
                        <div class="col-12">
@@ -91,9 +96,9 @@
                     <div class="row">
                         <div class="col-xl-9 col-lg-9 col-md-10">
                             <div class="hero__caption">
-                                <span data-animation="fadeInLeft" data-delay="0.1s">Hi This is  Zacson</span>
+                                <span data-animation="fadeInLeft" data-delay="0.1s">Shape Your  Body</span>
                                 <h1 data-animation="fadeInLeft" data-delay="0.4s">Gym Trainer</h1>
-                                <a href="courses.html" class="border-btn hero-btn" data-animation="fadeInLeft" data-delay="0.8s">My Courses</a>
+                                <a href="/courses" class="border-btn hero-btn" data-animation="fadeInLeft" data-delay="0.8s">My Courses</a>
                             </div>
                         </div>
                     </div>
@@ -113,8 +118,10 @@
                             <div class="topic-content-box">
                                 <div class="topic-content">
                                     <h3>Personal traning</h3>
-                                    <p>You’ll look at graphs and charts in Task One, how to approach the task and <br> the language needed for a successful answer.</p>
-                                    <a href="courses.html" class="border-btn">View Courses</a>
+                                    <p> Program latihan khusus yang dirancang sesuai kebutuhan dan tujuan pribadi Anda. 
+    Dengan bimbingan satu pelatih, Anda akan mendapat perhatian penuh, evaluasi perkembangan, 
+    serta penyesuaian program agar hasil lebih maksimal.</p>
+                                    <a href="/courses" class="border-btn">View Courses</a>
                                 </div>
                             </div>
                         </div>
@@ -127,8 +134,10 @@
                             <div class="topic-content-box">
                                 <div class="topic-content">
                                     <h3>Group traning</h3>
-                                    <p>You’ll look at graphs and charts in Task One, how to approach the task and <br> the language needed for a successful answer.</p>
-                                    <a href="courses.html" class="btn">View Courses</a>
+                                    <p>Latihan seru bersama teman atau komunitas dalam suasana yang lebih interaktif dan penuh motivasi. 
+    Cocok bagi Anda yang ingin meningkatkan kebugaran sambil bersosialisasi dan mendapatkan 
+    semangat dari rekan satu tim.</p>
+    <a href="/courses" class="border-btn">View Courses</a>
                                 </div>
                             </div>
                         </div>
@@ -139,46 +148,46 @@
     </section>
     <!-- Traning categories End-->
     <!--? Team -->
-    <section class="team-area fix">
+   <section class="team-area fix section-padding30">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
-                    <div class="section-tittle text-center mb-55 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
-                        <h2 >What I Offer</h2>
+                    <div class="section-tittle text-center mb-55">
+                        <h2>What I Offer</h2>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6">
-                    <div class="single-cat text-center mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" >
+                    <div class="single-cat text-center mb-30">
                         <div class="cat-icon">
                             <img src="assets/img/gallery/team1.png" alt="">
                         </div>
                         <div class="cat-cap">
                             <h5><a href="services.html">Body Building</a></h5>
-                            <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
+                            <p>Increase stamina, build muscle, and achieve your dream body with bodybuilding methods </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="single-cat text-center mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
+                    <div class="single-cat text-center mb-30">
                         <div class="cat-icon">
                             <img src="assets/img/gallery/team2.png" alt="">
                         </div>
                         <div class="cat-cap">
                             <h5><a href="services.html">Muscle Gain</a></h5>
-                            <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
+                            <p>Progressive training with a focus on muscle hypertrophy to build a more compact and powerful body </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="single-cat text-center mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
+                    <div class="single-cat text-center mb-30">
                         <div class="cat-icon">
                             <img src="assets/img/gallery/team3.png" alt="">
                         </div>
                         <div class="cat-cap">
                             <h5><a href="services.html">Weight Loss</a></h5>
-                            <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
+                            <p>A combination of cardio, strength training, and nutrition for optimal weight loss results </p>
                         </div>
                     </div>
                 </div>
@@ -196,7 +205,7 @@
                         <div class="overlay">
                             <div class="overlay-content">
                                 <h3>Muscle gaining </h3>
-                                <a href="gallery.html"><i class="ti-plus"></i></a>
+                                <a href="/gallery"><i class="ti-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -207,7 +216,7 @@
                         <div class="overlay">
                             <div class="overlay-content">
                                 <h3>Muscle gaining </h3>
-                                <a href="gallery.html"><i class="ti-plus"></i></a>
+                                <a href="/gallery"><i class="ti-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -218,7 +227,7 @@
                         <div class="overlay">
                             <div class="overlay-content">
                                 <h3>Muscle gaining </h3>
-                                <a href="gallery.html"><i class="ti-plus"></i></a>
+                                <a href="/gallery"><i class="ti-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -229,7 +238,7 @@
                         <div class="overlay">
                             <div class="overlay-content">
                                 <h3>Muscle gaining </h3>
-                                <a href="gallery.html"><i class="ti-plus"></i></a>
+                                <a href="/gallery"><i class="ti-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -240,7 +249,7 @@
                         <div class="overlay">
                             <div class="overlay-content">
                                 <h3>Muscle gaining </h3>
-                                <a href="gallery.html"><i class="ti-plus"></i></a>
+                                <a href="/gallery"><i class="ti-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -251,7 +260,7 @@
                         <div class="overlay">
                             <div class="overlay-content">
                                 <h3>Muscle gaining </h3>
-                                <a href="gallery.html"><i class="ti-plus"></i></a>
+                                <a href="/gallery"><i class="ti-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -261,25 +270,25 @@
     </div>
     <!-- Gallery Area End -->
     <!-- Courses area start -->
-    <section class="pricing-area section-padding40 fix">
+    <section class="pricing-area section-padding30 fix">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
-                    <div class="section-tittle text-center mb-55 wow fadeInUp" data-wow-duration="2s" data-wow-delay=".1s">
+                    <div class="section-tittle text-center mb-55">
                         <h2>Pricing</h2>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="properties mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
+                    <div class="properties mb-30">
                         <div class="properties__card">
                             <div class="about-icon">
                                 <img src="assets/img/icon/price.svg" alt="">
                             </div>
                             <div class="properties__caption">
-                                <span class="month">6 month</span>
-                                <p class="mb-25">$30/m  <span>(Single class)</span></p>
+                                <span class="month">Harian</span>
+                                <p class="mb-25">40k  <span>(regular)</span></p>
                                 <div class="single-features">
                                     <div class="features-icon">
                                         <img src="assets/img/icon/check.svg" alt="">
@@ -326,14 +335,14 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="properties mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
+                    <div class="properties mb-30">
                         <div class="properties__card">
                             <div class="about-icon">
                                 <img src="assets/img/icon/price.svg" alt="">
                             </div>
                             <div class="properties__caption">
-                                <span class="month">6 month</span>
-                                <p class="mb-25">$30/m  <span>(Single class)</span></p>
+                                <span class="month">1 Bulan</span>
+                                <p class="mb-25">170 K  <span>(Member Silver)</span></p>
                                 <div class="single-features">
                                     <div class="features-icon">
                                         <img src="assets/img/icon/check.svg" alt="">
@@ -380,14 +389,14 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="properties mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
+                    <div class="properties mb-30">
                         <div class="properties__card">
                             <div class="about-icon">
                                 <img src="assets/img/icon/price.svg" alt="">
                             </div>
                             <div class="properties__caption">
-                                <span class="month">6 month</span>
-                                <p class="mb-25">$30/m  <span>(Single class)</span></p>
+                                <span class="month">1 Tahun</span>
+                                <p class="mb-25">1.440 K  <span>(Member Gold)</span></p>
                                 <div class="single-features">
                                     <div class="features-icon">
                                         <img src="assets/img/icon/check.svg" alt="">
@@ -451,13 +460,11 @@
                 <div class="section-tittle2 mb-20 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                     <div class="front-text">
                         <h2 class="">About Me</h2>
-                        <p>You’ll look at graphs and charts in Task One, how to approach the task and the language needed 
-                            for a successful answer. You’ll examine Task Two questions and learn how to plan, write and 
-                        check academic essays.</p>
-                        <p class="mb-40">Task One, how to approach the task and the language needed for a successful answer. You’ll 
-                        examine Task Two questions and learn how to plan, write and check academic essays.</p>
-                        <a href="courses.html" class="border-btn">My Courses</a>
-                    </div>
+                        <p>Muswar atau Iwan Samurai adalah seorang atlet binaraga Indonesia yang berasal dari Sumatera Barat. Pada tahun 2016, ia mewakili Provinsi Sumatera Barat dan menjadi peraih medali emas dalam kejuaraan binaraga yang diselenggarakan pada Pekan Olahraga Nasional 2016.
+                            Muswar meraih medali emas untuk kelas 70 kg dalam ajang binaragawan pada Pekan Olahraga Nasional 2012 yang diselenggarakan di Kota Pekanbaru, Provinsi Riau. Namun gelarnya kemudian dicabut karena ia dianggap terbukti melakukan doping.
+                            Pada tahun 2017, Muswar menjadi perwakilan Indonesia dalam Kejuaraan Olahraga Fisik dan Binaraga Asia ke-51 di Seoul, Korea Selatan. Dalam kejuaraan ini, Muswar mengikuti kelas 75 kg.Pada tahun 2018, ia mengikuti Kejuaaan Asia Oseania yang diselenggarakan di Kamboja.
+                        </p>
+                                                     </div>
                 </div>
             </div>
         </div>
@@ -506,18 +513,25 @@
     </section>
     <!-- Blog Area End -->
     <!--? video_start -->
-   <div class="video-area section-bg2 d-flex align-items-center" data-background="assets/img/gallery/video-bg.png">
+    <div class="video-area section-bg2 d-flex align-items-center" >
     <div class="container">
         <div class="video-wrap position-relative">
-            <div class="video-icon">
-                <a class="popup-video btn-icon" href="https://www.youtube.com/watch?v=_4ZupnZs8mA">
-                    <i class="fas fa-play"></i>
-                </a>
+            <div class="video-icon text-center">
+                <video width="100%" controls poster="assets/img/gallery/video-bg.png">
+    <source src="assets/img/gallery/v1.mp4" type="video/mp4">
+    Browser kamu tidak mendukung video tag.
+</video>
+
+
             </div>
         </div>
     </div>
 </div>
-    <!-- video_end -->
+
+
+
+
+  <!-- video_end -->
     <!-- ? services-area -->
     <section class="services-area">
         <div class="container">
@@ -529,7 +543,7 @@
                         </div>
                         <div class="features-caption">
                             <h3>Location</h3>
-                            <p>You’ll look at graphs and charts in Task One, how to approach </p>
+                            <p>Jl. S. Parman No.31, Ulak Karang Utara, Kec. Padang Utara, Kota Padang, Sumatera Barat </p>
                         </div>
                     </div>
                 </div>
@@ -540,8 +554,8 @@
                         </div>
                         <div class="features-caption">
                             <h3>Phone</h3>
-                            <p>(90) 277 278 2566</p>
-                            <p>  (78) 267 256 2578</p>
+                            <p>+62821-7021-6702</p>
+                            
                         </div>
                     </div>
                 </div>
@@ -551,9 +565,9 @@
                             <img src="assets/img/icon/icon3.svg" alt="">
                         </div>
                         <div class="features-caption">
-                            <h3>Email</h3>
-                            <p>jacson767@gmail.com</p>
-                            <p>contact56@zacsion.com</p>
+                            <h3>Instagram</h3>
+                            <p>@samuray_gym</p>
+                            
                         </div>
                     </div>
                 </div>
@@ -575,32 +589,12 @@
                                 <a href="index.html"><img src="assets/img/logo/logo2_footer.webp" alt=""></a>
                             </div>
                             <!-- Menu -->
-                            <!-- Header Start -->
-                            <div class="header-area main-header2 wow fadeInUp" data-wow-duration="2s" data-wow-delay=".4s">
-                                <div class="main-header main-header2">
-                                    <div class="menu-wrapper menu-wrapper2">
-                                        <!-- Main-menu -->
-                                        <div class="main-menu main-menu2 text-center">
-                                            <nav>
-                                                <ul>
-                                                    <li><a href="index.html">Home</a></li>
-                                                    <li><a href="about.html">About</a></li>
-                                                    <li><a href="courses.html">Courses</a></li>
-                                                    <li><a href="pricing.html">Pricing</a></li>
-                                                    <li><a href="gallery.html">Gallery</a></li>
-                                                    <li><a href="contact.html">Contact</a></li>
-                                                </ul>
-                                            </nav>
-                                        </div>   
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Header End -->
+                            
                             <!-- social -->
                             <div class="footer-social mt-30 wow fadeInUp" data-wow-duration="3s" data-wow-delay=".8s">
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="https://bit.ly/sai4ull"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                <a href="https://www.instagram.com/samuray_gym/"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.facebook.com/113197044346662?ref=_xav_ig_profile_page_web"><i class="fab fa-facebook-f"></i></a>
+                                
                             </div>
                         </div>
                     </div>
@@ -612,7 +606,7 @@
                     <div class="col-lg-12">
                         <div class="footer-copy-right text-center">
                             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                              Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                              Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Designed By Furgetech Theme</a>
                               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                           </div>
                       </div>
@@ -629,44 +623,44 @@
 
 <!-- JS here -->
 
-<script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
+<script src="/assets/js/vendor/modernizr-3.5.0.min.js"></script>
 <!-- Jquery, Popper, Bootstrap -->
-<script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
-<script src="./assets/js/popper.min.js"></script>
-<script src="./assets/js/bootstrap.min.js"></script>
+<script src="/assets/js/vendor/jquery-1.12.4.min.js"></script>
+<script src="/assets/js/popper.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
 <!-- Jquery Mobile Menu -->
-<script src="./assets/js/jquery.slicknav.min.js"></script>
+<script src="/assets/js/jquery.slicknav.min.js"></script>
 
 <!-- Jquery Slick , Owl-Carousel Plugins -->
-<script src="./assets/js/owl.carousel.min.js"></script>
-<script src="./assets/js/slick.min.js"></script>
+<script src="/assets/js/owl.carousel.min.js"></script>
+<script src="/assets/js/slick.min.js"></script>
 <!-- One Page, Animated-HeadLin -->
-<script src="./assets/js/wow.min.js"></script>
-<script src="./assets/js/animated.headline.js"></script>
-<script src="./assets/js/jquery.magnific-popup.js"></script>
+<script src="/assets/js/wow.min.js"></script>
+<script src="/assets/js/animated.headline.js"></script>
+<script src="/assets/js/jquery.magnific-popup.js"></script>
 
 <!-- Date Picker -->
-<script src="./assets/js/gijgo.min.js"></script>
+<script src="/assets/js/gijgo.min.js"></script>
 <!-- Nice-select, sticky -->
-<script src="./assets/js/jquery.nice-select.min.js"></script>
-<script src="./assets/js/jquery.sticky.js"></script>
+<script src="/assets/js/jquery.nice-select.min.js"></script>
+<script src="/assets/js/jquery.sticky.js"></script>
 
 <!-- counter , waypoint,Hover Direction -->
-<script src="./assets/js/jquery.counterup.min.js"></script>
-<script src="./assets/js/waypoints.min.js"></script>
-<script src="./assets/js/jquery.countdown.min.js"></script>
-<script src="./assets/js/hover-direction-snake.min.js"></script>
+<script src="/assets/js/jquery.counterup.min.js"></script>
+<script src="/assets/js/waypoints.min.js"></script>
+<script src="/assets/js/jquery.countdown.min.js"></script>
+<script src="/assets/js/hover-direction-snake.min.js"></script>
 
 <!-- contact js -->
-<script src="./assets/js/contact.js"></script>
-<script src="./assets/js/jquery.form.js"></script>
-<script src="./assets/js/jquery.validate.min.js"></script>
-<script src="./assets/js/mail-script.js"></script>
-<script src="./assets/js/jquery.ajaxchimp.min.js"></script>
+<script src="/assets/js/contact.js"></script>
+<script src="/assets/js/jquery.form.js"></script>
+<script src="/assets/js/jquery.validate.min.js"></script>
+<script src="/assets/js/mail-script.js"></script>
+<script src="/assets/js/jquery.ajaxchimp.min.js"></script>
 
 <!-- Jquery Plugins, main Jquery -->	
-<script src="./assets/js/plugins.js"></script>
-<script src="./assets/js/main.js"></script>
+<script src="/assets/js/plugins.js"></script>
+<script src="/assets/js/main.js"></script>
 
 </body>
 </html>

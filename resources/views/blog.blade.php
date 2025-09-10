@@ -42,8 +42,12 @@
                 <div class="container-fluid">
                     <div class="menu-wrapper d-flex align-items-center justify-content-between">
                         <!-- Logo -->
-                        <div class="logo">
-                            <a href="index.html"><img src="assets/img/logo/logo.webp" alt=""></a>
+                        <div class="col-lg-3">
+                            <div class="logo">
+                                <a href="./index.html">
+                                    <img src="https://www.samuraygym.com/asset-admin/images/logo.png" alt="" width="80%">
+                                </a>
+                            </div>
                         </div>
                         <!-- Main-menu -->
                         <div class="main-menu f-right d-none d-lg-block">
@@ -58,7 +62,7 @@
                                         <ul class="submenu">
                                             <li><a href="/blog">Blog</a></li>
                                             <li><a href="/blog_details">Blog Details</a></li>
-                                            <li><a href="/elements">Elements</a></li>
+                                            
                                         </ul>
                                     </li>
                                     <li><a href="/contact">Contact</a></li>
@@ -67,7 +71,7 @@
                         </div>          
                         <!-- Header-btn -->
                         <div class="header-btns d-none d-lg-block f-right">
-                           <a href="contact.html" class="btn">Contact me</a>
+                           <a href="/contact" class="btn">Contact me</a>
                        </div>
                        <!-- Mobile Menu -->
                        <div class="col-12">
@@ -105,102 +109,61 @@
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="assets/img/blog/single_blog_1.png" alt="">
                                 <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
+                                    <h3>13</h3>
+                                    <p>March</p>
                                 </a>
                             </div>
                             <div class="blog_details">
-                                <a class="d-inline-block" href="blog_details.html">
-                                    <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
+                                <a class="d-inline-block" href="/blog_details">
+                                    <h2 class="blog-head" style="color: #2d2d2d;">kompetisi di Timor Leste</h2>
                                 </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                he earth it first without heaven in place seed it second morning saying.</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                                </ul>
+                                <p>Iwand Samuray dipercaya sebagai salah satu juri dalam ajang kompetisi ini. Dengan pengalaman dan kredibilitas di dunia fitness/bodybuilding,
+                                     kehadirannya memberikan nilai tambah dan menjaga profesionalisme dalam penilaian peserta</p>
+                               
                             </div>
                         </article>
                         <article class="blog_item">
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="assets/img/blog/single_blog_2.png" alt="">
                                 <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
+                                    <h3>1</h3>
+                                    <p>Agustus</p>
                                 </a>
                             </div>
                             <div class="blog_details">
-                                <a class="d-inline-block" href="blog_details.html">
-                                    <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
+                                <a class="d-inline-block" href="/blog_details2">
+                                    <h2 class="blog-head" style="color: #2d2d2d;">Latihan gym tiap hari, masa gak dipamerin??</h2>
                                 </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                he earth it first without heaven in place seed it second morning saying.</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                                </ul>
+                                <p>Saatnya ikut kompetisi A-BOM Season 5, Minggu 02 November 2025.
+Dapatkan disc 10% + free premium picture (pendaftaran tanggal 01 Agustus - 30 September 2025) pembayaran dapat melalui transfer ke rekening BCA 0102277897 a/n PT ATLAS SPA.
+
+📍Atlas Sports Club, Jl. Dharmahusada Indah Barat III No 64-66 Surabaya
+
+Cp : 081138707111 (Atlas, Chat only)
+081230722882 (Rohman)
+085648113374 (Hendra)</p>
+                                
                             </div>
                         </article>
                         <article class="blog_item">
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="assets/img/blog/single_blog_3.png" alt="">
                                 <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
+                                    <h3>10</h3>
+                                    <p>Agustus</p>
                                 </a>
                             </div>
                             <div class="blog_details">
                                 <a class="d-inline-block" href="blog_details.html">
-                                    <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
+                                    <h2 class="blog-head" style="color: #2d2d2d;">Tips Latihan Beban untuk Pemula</h2></h2>
                                 </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                he earth it first without heaven in place seed it second morning saying.</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                                </ul>
+                                <p>Bagi pemula di dunia gym, penting untuk memulai dengan teknik yang benar. Fokus pada 
+                                   gerakan dasar seperti squat, bench press, dan deadlift sebelum mencoba variasi yang lebih berat.</p>
+                                
                             </div>
                         </article>
-                        <article class="blog_item">
-                            <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="assets/img/blog/single_blog_4.png" alt="">
-                                <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
-                                </a>
-                            </div>
-                            <div class="blog_details">
-                                <a class="d-inline-block" href="blog_details.html">
-                                    <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
-                                </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                he earth it first without heaven in place seed it second morning saying.</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                                </ul>
-                            </div>
-                        </article>
-                        <article class="blog_item">
-                            <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="assets/img/blog/single_blog_5.png" alt="">
-                                <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
-                                </a>
-                            </div>
-                            <div class="blog_details">
-                                <a class="d-inline-block" href="blog_details.html">
-                                    <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
-                                </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                he earth it first without heaven in place seed it second morning saying.</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                                </ul>
-                            </div>
-                        </article>
+                       
+                        
                         <nav class="blog-pagination justify-content-center d-flex">
                             <ul class="pagination">
                                 <li class="page-item">
@@ -241,54 +204,14 @@
                                 type="submit">Search</button>
                             </form>
                         </aside>
-                        <aside class="single_sidebar_widget post_category_widget">
-                            <h4 class="widget_title" style="color: #2d2d2d;">Category</h4>
-                            <ul class="list cat-list">
-                                <li>
-                                    <a href="#" class="d-flex">
-                                        <p>Resaurant food</p>
-                                        <p>(37)</p>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" class="d-flex">
-                                        <p>Travel news</p>
-                                        <p>(10)</p>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" class="d-flex">
-                                        <p>Modern technology</p>
-                                        <p>(03)</p>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" class="d-flex">
-                                        <p>Product</p>
-                                        <p>(11)</p>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" class="d-flex">
-                                        <p>Inspiration</p>
-                                        <p>21</p>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" class="d-flex">
-                                        <p>Health Care (21)</p>
-                                        <p>09</p>
-                                    </a>
-                                </li>
-                            </ul>
-                        </aside>
+                        
                         <aside class="single_sidebar_widget popular_post_widget">
                             <h3 class="widget_title" style="color: #2d2d2d;">Recent Post</h3>
                             <div class="media post_item">
                                 <img src="assets/img/post/post_1.png" alt="post">
                                 <div class="media-body">
                                     <a href="blog_details.html">
-                                        <h3 style="color: #2d2d2d;">From life was you fish...</h3>
+                                        <h3 style="color: #2d2d2d;">kompetisi A-BOM Season 5</h3>
                                     </a>
                                     <p>January 12, 2019</p>
                                 </div>
@@ -297,7 +220,7 @@
                                 <img src="assets/img/post/post_2.png" alt="post">
                                 <div class="media-body">
                                     <a href="blog_details.html">
-                                        <h3 style="color: #2d2d2d;">The Amazing Hubble</h3>
+                                        <h3 style="color: #2d2d2d;">Atlas Bom Battle</h3>
                                     </a>
                                     <p>02 Hours ago</p>
                                 </div>
@@ -306,7 +229,7 @@
                                 <img src="assets/img/post/post_3.png" alt="post">
                                 <div class="media-body">
                                     <a href="blog_details.html">
-                                        <h3 style="color: #2d2d2d;">Astronomy Or Astrology</h3>
+                                        <h3 style="color: #2d2d2d;">Rear Delt</h3>
                                     </a>
                                     <p>03 Hours ago</p>
                                 </div>
@@ -315,76 +238,37 @@
                                 <img src="assets/img/post/post_4.png" alt="post">
                                 <div class="media-body">
                                     <a href="blog_details.html">
-                                        <h3 style="color: #2d2d2d;">Asteroids telescope</h3>
+                                        <h3 style="color: #2d2d2d;">A-Bom Winner</h3>
                                     </a>
                                     <p>01 Hours ago</p>
                                 </div>
                             </div>
                         </aside>
-                        <aside class="single_sidebar_widget tag_cloud_widget">
-                            <h4 class="widget_title" style="color: #2d2d2d;">Tag Clouds</h4>
-                            <ul class="list">
-                                <li>
-                                    <a href="#">project</a>
-                                </li>
-                                <li>
-                                    <a href="#">love</a>
-                                </li>
-                                <li>
-                                    <a href="#">technology</a>
-                                </li>
-                                <li>
-                                    <a href="#">travel</a>
-                                </li>
-                                <li>
-                                    <a href="#">restaurant</a>
-                                </li>
-                                <li>
-                                    <a href="#">life style</a>
-                                </li>
-                                <li>
-                                    <a href="#">design</a>
-                                </li>
-                                <li>
-                                    <a href="#">illustration</a>
-                                </li>
-                            </ul>
-                        </aside>
+                       
 
-                        <aside class="single_sidebar_widget instagram_feeds">
-                            <h4 class="widget_title" style="color: #2d2d2d;">Instagram Feeds</h4>
-                            <ul class="instagram_row flex-wrap">
-                                <li>
-                                    <a href="#">
-                                        <img class="img-fluid" src="assets/img/post/post_5.png" alt="">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <img class="img-fluid" src="assets/img/post/post_6.png" alt="">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <img class="img-fluid" src="assets/img/post/post_7.png" alt="">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <img class="img-fluid" src="assets/img/post/post_8.png" alt="">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <img class="img-fluid" src="assets/img/post/post_9.png" alt="">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <img class="img-fluid" src="assets/img/post/post_10.png" alt="">
-                                    </a>
-                                </li>
-                            </ul>
+                        <aside class="single_sidebar_widget popular_post_widget">
+                            <h3 class="widget_title">Recent Posts</h3>
+                            <div class="media post_item">
+                                
+                                <div class="media-body">
+                                    <a href="#"><h3>Tips Latihan Beban untuk Pemula</h3></a>
+                                    <p>10 Agustus 2025</p>
+                                </div>
+                            </div>
+                            <div class="media post_item">
+                                {{-- <img src="assets/img/post/nutrition.png" alt="Nutrisi"> --}}
+                                <div class="media-body">
+                                    <a href="#"><h3>Pola Makan Sehat untuk Fitness</h3></a>
+                                    <p>20 Februari 2025</p>
+                                </div>
+                            </div>
+                            <div class="media post_item">
+                                {{-- <img src="assets/img/post/lifestyle.png" alt="Lifestyle"> --}}
+                                <div class="media-body">
+                                    <a href="#"><h3>Peran Gym dalam Gaya Hidup Sehat</h3></a>
+                                    <p>25 Mei 2025</p>
+                                </div>
+                            </div>
                         </aside>
                         <aside class="single_sidebar_widget newsletter_widget">
                             <h4 class="widget_title" style="color: #2d2d2d;">Newsletter</h4>
@@ -408,37 +292,37 @@
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
-                    <div class="single-services mb-40">
+                    <div class="single-services mb-40 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
                         <div class="features-icon">
                             <img src="assets/img/icon/icon1.svg" alt="">
                         </div>
                         <div class="features-caption">
                             <h3>Location</h3>
-                            <p>You’ll look at graphs and charts in Task One, how to approach </p>
+                            <p>Jl. S. Parman No.31, Ulak Karang Utara, Kec. Padang Utara, Kota Padang, Sumatera Barat </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
-                    <div class="single-services mb-40">
+                    <div class="single-services mb-40 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                         <div class="features-icon">
                             <img src="assets/img/icon/icon2.svg" alt="">
                         </div>
                         <div class="features-caption">
                             <h3>Phone</h3>
-                            <p>(90) 277 278 2566</p>
-                            <p>  (78) 267 256 2578</p>
+                            <p>+62821-7021-6702</p>
+                            
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
-                    <div class="single-services mb-40">
+                    <div class="single-services mb-40 wow fadeInUp" data-wow-duration="2s" data-wow-delay=".4s">
                         <div class="features-icon">
                             <img src="assets/img/icon/icon3.svg" alt="">
                         </div>
                         <div class="features-caption">
-                            <h3>Email</h3>
-                            <p>jacson767@gmail.com</p>
-                            <p>contact56@zacsion.com</p>
+                            <h3>Instagram</h3>
+                            <p>@samuray_gym</p>
+                            
                         </div>
                     </div>
                 </div>
@@ -460,32 +344,12 @@
                                 <a href="index.html"><img src="assets/img/logo/logo2_footer.webp" alt=""></a>
                             </div>
                             <!-- Menu -->
-                            <!-- Header Start -->
-                            <div class="header-area main-header2 wow fadeInUp" data-wow-duration="2s" data-wow-delay=".4s">
-                                <div class="main-header main-header2">
-                                    <div class="menu-wrapper menu-wrapper2">
-                                        <!-- Main-menu -->
-                                        <div class="main-menu main-menu2 text-center">
-                                            <nav>
-                                                <ul>
-                                                    <li><a href="index.html">Home</a></li>
-                                                    <li><a href="about.html">About</a></li>
-                                                    <li><a href="courses.html">Courses</a></li>
-                                                    <li><a href="pricing.html">Pricing</a></li>
-                                                    <li><a href="gallery.html">Gallery</a></li>
-                                                    <li><a href="contact.html">Contact</a></li>
-                                                </ul>
-                                            </nav>
-                                        </div>   
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Header End -->
+                            
                             <!-- social -->
                             <div class="footer-social mt-30 wow fadeInUp" data-wow-duration="3s" data-wow-delay=".8s">
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="https://bit.ly/sai4ull"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                <a href="https://www.instagram.com/samuray_gym/"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.facebook.com/113197044346662?ref=_xav_ig_profile_page_web"><i class="fab fa-facebook-f"></i></a>
+                                
                             </div>
                         </div>
                     </div>
@@ -497,7 +361,7 @@
                     <div class="col-lg-12">
                         <div class="footer-copy-right text-center">
                             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                              Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                              Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Designed By Furgetech Theme</a>
                               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                           </div>
                       </div>

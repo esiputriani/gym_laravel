@@ -27,10 +27,10 @@ Route::get('/blog', function () {
 Route::get('/blog_details', function () {
     return view('blog_details');
 });
-
-Route::get('/elements', function () {
-    return view('elements');
+Route::get('/blog_details2', function () {
+    return view('blog_details2');
 });
+
 Route::get('/pricing', function () {
     return view('pricing');
 });

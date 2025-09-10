@@ -41,9 +41,13 @@
       <div class="container-fluid">
         <div class="menu-wrapper d-flex align-items-center justify-content-between">
           <!-- Logo -->
-          <div class="logo">
-            <a href="index.html"><img src="assets/img/logo/logo.webp" alt=""></a>
-          </div>
+          <div class="col-lg-3">
+                            <div class="logo">
+                                <a href="./index.html">
+                                    <img src="https://www.samuraygym.com/asset-admin/images/logo.png" alt="" width="80%">
+                                </a>
+                            </div>
+                        </div>
           <!-- Main-menu -->
           <div class="main-menu f-right d-none d-lg-block">
             <nav>
@@ -56,7 +60,7 @@
                                         <ul class="submenu">
                                             <li><a href="/blog">Blog</a></li>
                                             <li><a href="/blog_details">Blog Details</a></li>
-                                            <li><a href="/elements">Elements</a></li>
+                                            
                                         </ul>
                                     </li>
                                     <li><a href="/contact">Contact</a></li>
@@ -65,7 +69,7 @@
           </div>          
           <!-- Header-btn -->
           <div class="header-btns d-none d-lg-block f-right">
-           <a href="contact.html" class="btn">Contact me</a>
+           <a href="/contact" class="btn">Contact me</a>
          </div>
          <!-- Mobile Menu -->
          <div class="col-12">
@@ -103,57 +107,42 @@
         <img class="img-fluid" src="assets/img/blog/single_blog_1.png" alt="">
       </div>
       <div class="blog_details">
-        <h2 style="color: #2d2d2d;">Second divided from form fish beast made every of seas
-         all gathered us saying he our
+        <h2 style="color: #2d2d2d;">kompetisi di Timor Leste
        </h2>
-       <ul class="blog-info-link mt-3 mb-4">
-         <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-         <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-       </ul>
+       <!-- <ul class="blog-info-link mt-3 mb-4">
+         <li><a href=""><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+         <li><a href=""><i class="fa fa-comments"></i> 03 Comments</a></li>
+       </ul> -->
        <p class="excert">
-         MCSE boot camps have its supporters and its detractors. Some people do not understand why you
-         should have to spend money on boot camp when you can get the MCSE study materials yourself at a
-         fraction of the camp price. However, who has the willpower
+         Dalam sebuah ajang kompetisi bergengsi di Timor Leste, sosok Iwand 
+         Samuray dipercaya sebagai salah satu juri utama. Penunjukan ini bukan 
+         tanpa alasan, mengingat rekam jejaknya yang panjang di dunia fitness dan bodybuilding. 
+         Dengan pengalaman bertahun-tahun, baik sebagai atlet maupun pelatih, Iwand dikenal 
+         memiliki wawasan yang luas mengenai teknik, disiplin, serta standar penilaian yang 
+         objektif dalam dunia olahraga kebugaran.
        </p>
-       <p>
-         MCSE boot camps have its supporters and its detractors. Some people do not understand why you
-         should have to spend money on boot camp when you can get the MCSE study materials yourself at a
-         fraction of the camp price. However, who has the willpower to actually sit through a
-         self-imposed MCSE training. who has the willpower to actually
-       </p>
+      
        <div class="quote-wrapper">
          <div class="quotes">
-          MCSE boot camps have its supporters and its detractors. Some people do not understand why you
-          should have to spend money on boot camp when you can get the MCSE study materials yourself at
-          a fraction of the camp price. However, who has the willpower to actually sit through a
-          self-imposed MCSE training.
+        Kehadirannya sebagai juri memberikan nilai tambah yang besar bagi penyelenggaraan kompetisi ini. Tidak hanya menghadirkan kredibilitas, tetapi juga memastikan proses penilaian berlangsung secara profesional, adil, dan transparan. Para peserta pun merasa lebih termotivasi, karena hasil kerja keras mereka dinilai oleh sosok yang benar-benar memahami detail setiap aspek, mulai dari estetika tubuh, proporsi otot, hingga performa di atas panggung.
         </div>
       </div>
       <p>
-       MCSE boot camps have its supporters and its detractors. Some people do not understand why you
-       should have to spend money on boot camp when you can get the MCSE study materials yourself at a
-       fraction of the camp price. However, who has the willpower
+       Selain itu, keterlibatan Iwand Samuray juga mencerminkan pengakuan atas kontribusinya di tingkat internasional. Hal ini sekaligus membuka peluang bagi kolaborasi lebih luas antara komunitas fitness di Indonesia dengan negara-negara tetangga, termasuk Timor Leste. Dengan demikian, peranannya bukan hanya sebatas juri, melainkan juga sebagai duta yang menghubungkan semangat sportivitas, profesionalisme, dan persahabatan antar bangsa melalui dunia fitness dan bodybuilding.
      </p>
-     <p>
-       MCSE boot camps have its supporters and its detractors. Some people do not understand why you
-       should have to spend money on boot camp when you can get the MCSE study materials yourself at a
-       fraction of the camp price. However, who has the willpower to actually sit through a
-       self-imposed MCSE training. who has the willpower to actually
-     </p>
+     
    </div>
  </div>
  <div class="navigation-top">
    <div class="d-sm-flex justify-content-between text-center">
-    <p class="like-info"><span class="align-middle"><i class="fa fa-heart"></i></span> Lily and 4
-    people like this</p>
+    
     <div class="col-sm-4 text-center my-2 my-sm-0">
      <!-- <p class="comment-count"><span class="align-middle"><i class="fa fa-comment"></i></span> 06 Comments</p> -->
    </div>
    <ul class="social-icons">
-     <li><a href="https://www.facebook.com/sai4ull"><i class="fab fa-facebook-f"></i></a></li>
-     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-     <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-     <li><a href="#"><i class="fab fa-behance"></i></a></li>
+     <li><a href="https://www.facebook.com/113197044346662?ref=_xav_ig_profile_page_web"><i class="fab fa-facebook-f"></i></a></li>
+     <li><a href="https://www.instagram.com/samuray_gym/"><i class="fab fa-instagram"></i></a></li>
+     
    </ul>
  </div>
  <div class="navigation-area">
@@ -200,16 +189,7 @@ class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end al
 </div>
 </div>
 <div class="blog-author">
- <div class="media align-items-center">
-  <img src="assets/img/blog/author.png" alt="">
-  <div class="media-body">
-   <a href="#">
-    <h4>Harvard milan</h4>
-  </a>
-  <p>Second divided from form fish beast made. Every of seas all gathered use saying you're, he
-  our dominion twon Second divided from</p>
-</div>
-</div>
+
 </div>
 <div class="comments-area">
  <h4>05 Comments</h4>
@@ -340,87 +320,46 @@ class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end al
   <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn"
   type="submit">Search</button>
 </form>
-</aside>
-<aside class="single_sidebar_widget post_category_widget">
-  <h4 class="widget_title" style="color: #2d2d2d;">Category</h4>
-  <ul class="list cat-list">
-   <li>
-    <a href="#" class="d-flex">
-     <p>Resaurant food</p>
-     <p>(37)</p>
-   </a>
- </li>
- <li>
-  <a href="#" class="d-flex">
-   <p>Travel news</p>
-   <p>(10)</p>
- </a>
-</li>
-<li>
-  <a href="#" class="d-flex">
-   <p>Modern technology</p>
-   <p>(03)</p>
- </a>
-</li>
-<li>
-  <a href="#" class="d-flex">
-   <p>Product</p>
-   <p>(11)</p>
- </a>
-</li>
-<li>
-  <a href="#" class="d-flex">
-   <p>Inspiration</p>
-   <p>(21)</p>
- </a>
-</li>
-<li>
-  <a href="#" class="d-flex">
-   <p>Health Care</p>
-   <p>(21)</p>
- </a>
-</li>
-</ul>
-</aside>
+
 <aside class="single_sidebar_widget popular_post_widget">
-  <h3 class="widget_title" style="color: #2d2d2d;">Recent Post</h3>
-  <div class="media post_item">
-   <img src="assets/img/post/post_1.png" alt="post">
-   <div class="media-body">
-    <a href="blog_details.html">
-     <h3 style="color: #2d2d2d;">From life was you fish...</h3>
-   </a>
-   <p>January 12, 2019</p>
- </div>
-</div>
-<div class="media post_item">
- <img src="assets/img/post/post_2.png" alt="post">
- <div class="media-body">
-  <a href="blog_details.html">
-   <h3 style="color: #2d2d2d;">The Amazing Hubble</h3>
- </a>
- <p>02 Hours ago</p>
-</div>
-</div>
-<div class="media post_item">
- <img src="assets/img/post/post_3.png" alt="post">
- <div class="media-body">
-  <a href="blog_details.html">
-   <h3 style="color: #2d2d2d;">Astronomy Or Astrology</h3>
- </a>
- <p>03 Hours ago</p>
-</div>
-</div>
-<div class="media post_item">
- <img src="assets/img/post/post_4.png" alt="post">
- <div class="media-body">
-  <a href="blog_details.html">
-   <h3 style="color: #2d2d2d;">Asteroids telescope</h3>
- </a>
- <p>01 Hours ago</p>
-</div>
-</div>
-</aside>
+                            <h3 class="widget_title" style="color: #2d2d2d;">Recent Post</h3>
+                            <div class="media post_item">
+                                <img src="assets/img/post/post_1.png" alt="post">
+                                <div class="media-body">
+                                    <a href="blog_details.html">
+                                        <h3 style="color: #2d2d2d;">kompetisi A-BOM Season 5</h3>
+                                    </a>
+                                    <p>January 12, 2019</p>
+                                </div>
+                            </div>
+                            <div class="media post_item">
+                                <img src="assets/img/post/post_2.png" alt="post">
+                                <div class="media-body">
+                                    <a href="blog_details.html">
+                                        <h3 style="color: #2d2d2d;">Atlas Bom Battle</h3>
+                                    </a>
+                                    <p>02 Hours ago</p>
+                                </div>
+                            </div>
+                            <div class="media post_item">
+                                <img src="assets/img/post/post_3.png" alt="post">
+                                <div class="media-body">
+                                    <a href="blog_details.html">
+                                        <h3 style="color: #2d2d2d;">Rear Delt</h3>
+                                    </a>
+                                    <p>03 Hours ago</p>
+                                </div>
+                            </div>
+                            <div class="media post_item">
+                                <img src="assets/img/post/post_4.png" alt="post">
+                                <div class="media-body">
+                                    <a href="blog_details.html">
+                                        <h3 style="color: #2d2d2d;">A-Bom Winner</h3>
+                                    </a>
+                                    <p>01 Hours ago</p>
+                                </div>
+                            </div>
+                        </aside>
 <aside class="single_sidebar_widget tag_cloud_widget">
   <h4 class="widget_title" style="color: #2d2d2d;">Tag Clouds</h4>
   <ul class="list">
@@ -504,112 +443,94 @@ class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end al
 <!-- Blog Area End -->
 <!-- ? services-area -->
 <section class="services-area">
- <div class="container">
-   <div class="row justify-content-between">
-    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
-     <div class="single-services mb-40">
-       <div class="features-icon">
-        <img src="assets/img/icon/icon1.svg" alt="">
-      </div>
-      <div class="features-caption">
-        <h3>Location</h3>
-        <p>You’ll look at graphs and charts in Task One, how to approach </p>
-      </div>
-    </div>
-  </div>
-  <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
-   <div class="single-services mb-40">
-     <div class="features-icon">
-      <img src="assets/img/icon/icon2.svg" alt="">
-    </div>
-    <div class="features-caption">
-      <h3>Phone</h3>
-      <p>(90) 277 278 2566</p>
-      <p>  (78) 267 256 2578</p>
-    </div>
-  </div>
-</div>
-<div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
- <div class="single-services mb-40">
-   <div class="features-icon">
-    <img src="assets/img/icon/icon3.svg" alt="">
-  </div>
-  <div class="features-caption">
-    <h3>Email</h3>
-    <p>jacson767@gmail.com</p>
-    <p>contact56@zacsion.com</p>
-  </div>
-</div>
-</div>
-</div>
-</div>
-</section>
+        <div class="container">
+            <div class="row justify-content-between">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
+                    <div class="single-services mb-40 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
+                        <div class="features-icon">
+                            <img src="assets/img/icon/icon1.svg" alt="">
+                        </div>
+                        <div class="features-caption">
+                            <h3>Location</h3>
+                            <p>Jl. S. Parman No.31, Ulak Karang Utara, Kec. Padang Utara, Kota Padang, Sumatera Barat </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
+                    <div class="single-services mb-40 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
+                        <div class="features-icon">
+                            <img src="assets/img/icon/icon2.svg" alt="">
+                        </div>
+                        <div class="features-caption">
+                            <h3>Phone</h3>
+                            <p>+62821-7021-6702</p>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
+                    <div class="single-services mb-40 wow fadeInUp" data-wow-duration="2s" data-wow-delay=".4s">
+                        <div class="features-icon">
+                            <img src="assets/img/icon/icon3.svg" alt="">
+                        </div>
+                        <div class="features-caption">
+                            <h3>Instagram</h3>
+                            <p>@samuray_gym</p>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 <footer>
-  <!--? Footer Start-->
-  <div class="footer-area black-bg">
-    <div class="container">
-      <div class="footer-top footer-padding">
-        <!-- Footer Menu -->
-        <div class="row">
-          <div class="col-xl-12">
-            <div class="single-footer-caption mb-50 text-center">
-              <!-- logo -->
-              <div class="footer-logo wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                <a href="index.html"><img src="assets/img/logo/logo2_footer.webp" alt=""></a>
-              </div>
-              <!-- Menu -->
-              <!-- Header Start -->
-              <div class="header-area main-header2 wow fadeInUp" data-wow-duration="2s" data-wow-delay=".4s">
-                <div class="main-header main-header2">
-                  <div class="menu-wrapper menu-wrapper2">
-                    <!-- Main-menu -->
-                    <div class="main-menu main-menu2 text-center">
-                      <nav>
-                        <ul>
-                          <li><a href="index.html">Home</a></li>
-                          <li><a href="about.html">About</a></li>
-                          <li><a href="courses.html">Courses</a></li>
-                          <li><a href="pricing.html">Pricing</a></li>
-                          <li><a href="gallery.html">Gallery</a></li>
-                          <li><a href="contact.html">Contact</a></li>
-                        </ul>
-                      </nav>
-                    </div>   
-                  </div>
+    <!--? Footer Start-->
+    <div class="footer-area black-bg">
+        <div class="container">
+            <div class="footer-top footer-padding">
+                <!-- Footer Menu -->
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="single-footer-caption mb-50 text-center">
+                            <!-- logo -->
+                            <div class="footer-logo wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
+                                <a href="index.html"><img src="assets/img/logo/logo2_footer.webp" alt=""></a>
+                            </div>
+                            <!-- Menu -->
+                            
+                            <!-- social -->
+                            <div class="footer-social mt-30 wow fadeInUp" data-wow-duration="3s" data-wow-delay=".8s">
+                                <a href="https://www.instagram.com/samuray_gym/"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.facebook.com/113197044346662?ref=_xav_ig_profile_page_web"><i class="fab fa-facebook-f"></i></a>
+                                
+                            </div>
+                        </div>
+                    </div>
                 </div>
-              </div>
-              <!-- Header End -->
-              <!-- social -->
-              <div class="footer-social mt-30 wow fadeInUp" data-wow-duration="3s" data-wow-delay=".8s">
-                <a href="#"><i class="fab fa-twitter"></i></a>
-                <a href="https://bit.ly/sai4ull"><i class="fab fa-facebook-f"></i></a>
-                <a href="#"><i class="fab fa-pinterest-p"></i></a>
-              </div>
             </div>
-          </div>
-        </div>
-      </div>
-      <!-- Footer Bottom -->
-      <div class="footer-bottom">
-        <div class="row d-flex align-items-center">
-          <div class="col-lg-12">
-            <div class="footer-copy-right text-center">
-              <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+            <!-- Footer Bottom -->
+            <div class="footer-bottom">
+                <div class="row d-flex align-items-center">
+                    <div class="col-lg-12">
+                        <div class="footer-copy-right text-center">
+                            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                              Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Designed By Furgetech Theme</a>
+                              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                          </div>
+                      </div>
+                  </div>
               </div>
-            </div>
           </div>
-        </div>
       </div>
-    </div>
-    <!-- Footer End-->
+      <!-- Footer End-->
   </footer>
   <!-- Scroll Up -->
   <div id="back-top" >
-   <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
- </div>
+    <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
+</div>
+  <!--? Footer Start-->
+ 
 
  <!-- JS here -->
  
